@@ -1,5 +1,6 @@
 {
     "require": {
-        "laravel/socialite": "^3.0"
+        "laravel/socialite": "^3.0",
+        "overtrue/socialite": "^2.0"
     }
 }

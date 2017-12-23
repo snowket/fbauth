@@ -18,6 +18,7 @@ return array(
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-message/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
+    'Overtrue\\Socialite\\' => array($vendorDir . '/overtrue/socialite/src'),
     'League\\OAuth1\\' => array($vendorDir . '/league/oauth1-client/src'),
     'Laravel\\Socialite\\' => array($vendorDir . '/laravel/socialite/src'),
     'Illuminate\\Support\\' => array($vendorDir . '/illuminate/support'),

@@ -35,6 +35,10 @@ class ComposerStaticInit7504fbf27b6523cf9b4cb73f7fb5f773
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
         ),
+        'O' => 
+        array (
+            'Overtrue\\Socialite\\' => 19,
+        ),
         'L' => 
         array (
             'League\\OAuth1\\' => 14,
@@ -112,6 +116,10 @@ class ComposerStaticInit7504fbf27b6523cf9b4cb73f7fb5f773
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
+        ),
+        'Overtrue\\Socialite\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/overtrue/socialite/src',
         ),
         'League\\OAuth1\\' => 
         array (
